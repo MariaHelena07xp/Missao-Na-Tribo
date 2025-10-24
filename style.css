@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(14, 26, 7);
+    color: white;
+    font-family: "Marcellus",serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(133, 197, 80);
+    color: white;
+    font-family: "Marcellus", serif;
+}
